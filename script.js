@@ -97,7 +97,7 @@ btn.addEventListener('click',()=>{
 
     let changetwel=()=>{
         heading.classList.add('mno');
-    heading.innerHTML=`This thought...does not matter`;
+    heading.innerHTML=`This thought... does not matter`;
     }
     setTimeout(changetwel,50000);
 
